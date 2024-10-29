@@ -1,0 +1,28 @@
+Process Statistics:
+    Pacient 0 requested 1 admissions!
+    Receptionist 0 requested 1 admissions!
+    Doctor 0 requested 1 admissions!
+    
+Admission Statistics:
+Admission: 0
+Status: A
+Patient id: 0
+Receptionist id: 0
+Doctor id: 0
+Start time: 29/10/2024_20:15:44.238
+Patient time : 29/10/2024_20:15:44.238
+Receptionist time : 29/10/2024_20:15:44.238
+Doctor time: 29/10/2024_20:15:44.238
+Total time: 0.000
+
+Admission: 1
+Status: M
+Patient id: 0
+Receptionist id: 0
+Doctor id: 0
+Start time: 29/10/2024_20:15:48.931
+Patient time : 01/01/1970_01:00:00.000
+Receptionist time : 01/01/1970_01:00:00.000
+Doctor time: 01/01/1970_01:00:00.000
+Total time: -1730232948.931
+
